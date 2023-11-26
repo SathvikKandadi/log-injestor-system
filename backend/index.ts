@@ -78,7 +78,7 @@ app.post('/*' , (req:Request , res:Response) => {
 
 
 
-mongoose.connect('mongodb+srv://kandadisathvik:pTtDErnGofNnwK42@cluster1.lwadyfq.mongodb.net/', { dbName: "logs" });
+mongoose.connect('mongodb+srv://useyoururlhere.mongodb.net/', { dbName: "logs" });
 
 
 app.listen(port , () => {
