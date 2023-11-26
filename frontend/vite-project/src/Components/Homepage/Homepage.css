@@ -1,0 +1,12 @@
+.header{
+    width: 50%;
+    height: 50%;
+    margin: 5%;
+
+}
+
+.footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
